@@ -229,3 +229,4 @@ void _generatorUnlock(pthread_mutex_t *mutex){
     // Used by generator after producing one succesful WorkUnit
     pthread_mutex_unlock(mutex);
 }
+asdf
